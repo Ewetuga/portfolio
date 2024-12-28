@@ -363,9 +363,8 @@ footer h3{
     /*header*/
     header{
         padding: .4rem;
-        width: 23rem;
+        width: 21rem;
         background-color: gray;
-        align-items: center;
     }
 header .menu{
     /* background: black;
@@ -380,7 +379,7 @@ header ul{
 /*main*/
 .main{
     flex-direction: column;
-    width: 60rem;
+    width: 30rem;
     height: 60rem;
     padding: 1rem;
     font-size: 1.2rem;
