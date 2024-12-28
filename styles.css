@@ -385,9 +385,10 @@ header ul{
 .main{
     flex-direction: column;
     width: 20rem;
-    height: 40rem;
+    height: 45rem;
     padding: 1rem;
     font-size: 1.2rem;
+    overflow-x: hidden;
 }
 
 .main .myself{
