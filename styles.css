@@ -364,9 +364,9 @@ footer h3{
 /*media queries*/
 @media screen and (max-width:480px) {
     /*header*/
-   *{
+   /* *{
     outline: 1px solid red;
-   }
+   } */
     header{
         padding: .4rem;
         width: 25rem;
@@ -396,7 +396,7 @@ header ul{
     line-height: 2rem;
     font-weight: bold;
     width: 21rem;
-    height: 36rem;
+    height: 37rem;
     padding-top:1rem;
     overflow-y: hidden;
 }
