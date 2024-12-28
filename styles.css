@@ -363,7 +363,9 @@ footer h3{
 /*media queries*/
 @media screen and (max-width:480px) {
     /*header*/
-   
+   *{
+    outline: 1px solid red;
+   }
     header{
         padding: .4rem;
         width: 23rem;
@@ -382,8 +384,8 @@ header ul{
 /*main*/
 .main{
     flex-direction: column;
-    width: 30rem;
-    height: 60rem;
+    width: 20rem;
+    height: 40rem;
     padding: 1rem;
     font-size: 1.2rem;
 }
