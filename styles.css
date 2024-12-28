@@ -429,13 +429,13 @@ header ul{
     justify-content: space-between;
     font-size: 1.02rem;
     margin-left: 0;
-    width: 11rem;
+    width: 16rem;
 }
 .my-service .pl{
     background-color: gray;
     padding: 1.3rem;
     margin: .1rem;
-    width: 9rem;
+    width: 12rem;
     color: white;
     border-radius: .4rem;
     }
