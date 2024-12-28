@@ -363,7 +363,7 @@ footer h3{
     /*header*/
     header{
         padding: .4rem;
-        width: 21rem;
+        width: 22.3rem;
         background-color: gray;
     }
 header .menu{
@@ -388,7 +388,7 @@ header ul{
 .main .myself{
     line-height: 2rem;
     font-weight: bold;
-    width: 15rem;
+    width: 20rem;
     height: 40rem;
     padding-top:1rem;
 }
