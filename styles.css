@@ -396,7 +396,7 @@ header ul{
     line-height: 2rem;
     font-weight: bold;
     width: 21rem;
-    height: 35rem;
+    height: 36rem;
     padding-top:1rem;
     overflow-y: hidden;
 }
@@ -574,7 +574,7 @@ header ul{
 
 .socials .s{
     background-color: #dad2ad;
-    width: 5rem;
+    width: 13rem;
     height: 0.96rem;
     color: #dad2ad;
     border-radius: .6rem;
