@@ -365,6 +365,7 @@ footer h3{
         padding: .4rem;
         width: 17rem;
         background-color: gray;
+        justify-content: center;
     }
 header .menu{
     /* background: black;
