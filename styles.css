@@ -363,9 +363,7 @@ footer h3{
 /*media queries*/
 @media screen and (max-width:480px) {
     /*header*/
-    *{
-        outline: 1px solid red;
-    }
+   
     header{
         padding: .4rem;
         width: 23rem;
@@ -394,7 +392,7 @@ header ul{
     line-height: 2rem;
     font-weight: bold;
     width: 21rem;
-    height: 20rem;
+    height: 25rem;
     padding-top:1rem;
 }
 .main .my-image{
