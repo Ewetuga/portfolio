@@ -10,6 +10,8 @@ body{
     /* background-color: #dad2ad; */
     background-color: #002d62;
     font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    overflow-x: hidden;
 
 }
 
