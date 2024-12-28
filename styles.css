@@ -363,6 +363,9 @@ footer h3{
 /*media queries*/
 @media screen and (max-width:480px) {
     /*header*/
+    *{
+        outline: 1px solid red;
+    }
     header{
         padding: .4rem;
         width: 23rem;
