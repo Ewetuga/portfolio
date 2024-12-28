@@ -398,6 +398,7 @@ header ul{
     width: 21rem;
     height: 35rem;
     padding-top:1rem;
+    overflow-y: hidden;
 }
 .main .my-image{
     box-shadow: 4px 8px 12px #dad2ad;
@@ -446,7 +447,7 @@ header ul{
 /*projects*/
 .projects{
     margin: 1rem;
-    width: 20rem;
+    width: 25rem;
     height: 67rem;
 }
 
@@ -463,13 +464,13 @@ header ul{
 }
 .projects .show{
     position: absolute;
-    width: 10rem;
+    width: 18rem;
     height: 37rem;
 }
 
 .projects .show-content{
     position: relative;
-    width: 13.5rem;
+    width: 17.5rem;
     height: 15rem;
     z-index: 1;
     background: rgba(0, 0, 0, 0.77);
