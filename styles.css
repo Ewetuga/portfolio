@@ -379,7 +379,7 @@ header ul{
 /*main*/
 .main{
     flex-direction: column;
-    width: 30rem;
+    width: 20rem;
     height: 60rem;
     padding: 1rem;
     font-size: 1.2rem;
@@ -388,7 +388,7 @@ header ul{
 .main .myself{
     line-height: 2rem;
     font-weight: bold;
-    width: 20rem;
+    width: 11rem;
     height: 40rem;
     padding-top:1rem;
 }
