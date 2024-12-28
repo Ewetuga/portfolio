@@ -369,7 +369,7 @@ footer h3{
    }
     header{
         padding: .4rem;
-        width: 23rem;
+        width: 25rem;
         background-color: gray;
     }
 header .menu{
@@ -574,7 +574,7 @@ header ul{
 
 .socials .s{
     background-color: #dad2ad;
-    width: 2.4rem;
+    width: 5rem;
     height: 0.96rem;
     color: #dad2ad;
     border-radius: .6rem;
